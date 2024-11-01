@@ -1,0 +1,8 @@
+Find all the perfect numbers from the given range in a list.
+
+Sample Input:
+1
+100
+
+Sample Output:
+Perfect numbers in given range [6, 28]
